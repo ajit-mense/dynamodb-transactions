@@ -31,7 +31,7 @@
         <!-- The AWS SDK for Java, and its dependencies on libraries like Jackson, are required -->
         <dependency>
             <groupId>com.amazonaws</groupId>
-            <artifactId>aws-java-sdk</artifactId>
+            <artifactId>aws-java-sdk-dynamodb</artifactId>
             <version>${aws-java-sdk.version}</version>
         </dependency>
 
